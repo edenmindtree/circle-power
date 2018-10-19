@@ -1,0 +1,9 @@
+{
+  "name": "first-game",
+  "version": "0.0.1",
+  "description": "my first socket.io game",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
